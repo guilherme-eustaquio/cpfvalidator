@@ -27,3 +27,6 @@ The CPF Validator API is an application developed in Node.js with the Express fr
 ## How to Use
 1. Make a GET request to `/users/:cpf`, replacing `:cpf` with the CPF number to be validated.
 2. The API response will indicate whether the CPF is valid or invalid.
+
+PS: This API is consumed by voting-system https://github.com/guilherme-eustaquio/voting-system
+
